@@ -1,6 +1,3 @@
-package main
-import "fmt"
-
 func PlusOne(digits []int) []int {
     n := len(digits)
 
